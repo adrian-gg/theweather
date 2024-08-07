@@ -1,0 +1,15 @@
+.scrabletext,
+.scrabletext__text {
+  display: inline-flex;
+}
+.scrabletext__text {
+  width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: none;
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+}
