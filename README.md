@@ -1,6 +1,6 @@
-# TheWeather2
+# TheWeather
 
-**TheWeather2** is a weather application that provides up-to-date information about the weather in various locations. This application uses OpenWeatherMap to offer accurate and detailed forecasts.
+**TheWeather** is a weather application that provides up-to-date information about the weather in various locations. This application uses OpenWeatherMap to offer accurate and detailed forecasts.
 
 ## 🚀 Features
 
@@ -31,7 +31,7 @@ Before you start, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/adrian-gg/theweather2.git
+   git clone https://github.com/adrian-gg/theweather.git
    ```
 
 2. Navigate to the project directory:
