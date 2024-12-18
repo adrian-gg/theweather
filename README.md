@@ -37,7 +37,7 @@ Before you start, make sure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd theweather2
+   cd theweather
    ```
 
 3. Install the dependencies:
